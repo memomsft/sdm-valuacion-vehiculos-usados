@@ -18,7 +18,7 @@ Tabla de precios local (fallback) → precio sugerido en RD$
       ↓
 SQL Database de Fabric — historial de valuaciones
 
-Momento 2 — separado en demo:
+Agent — separado en demo:
 Fabric Data Agent → consultas en lenguaje natural sobre Lakehouse
 ```
 
